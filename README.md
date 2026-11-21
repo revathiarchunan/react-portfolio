@@ -4,7 +4,8 @@
 A responsive personal portfolio website built with React to showcase my projects, technical skills, and contact information.
 
 ## Live Demo
-Coming soon!
+## Live Demo
+https://revathi-react-portfolio.netlify.app/
 
 ## Features
 - Responsive design for desktop and mobile
