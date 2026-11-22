@@ -101,9 +101,11 @@ function Contact() {
     <section className="contact-section" id="contact">
       <div className="section-heading">
         <span className="section-label">GET IN TOUCH</span>
+
         <h2>
           Let's <span>Connect</span>
         </h2>
+
         <p>
           Have a project or opportunity? I'd love to hear from you.
         </p>

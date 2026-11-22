@@ -34,9 +34,13 @@ function Hero() {
             GitHub ↗
           </a>
 
-          <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-            LinkedIn ↗
-          </a>
+          <a
+  href="https://www.linkedin.com/in/revathi-archunan/"
+  target="_blank"
+  rel="noreferrer"
+>
+  LinkedIn ↗
+</a>
         </div>
       </div>
 
